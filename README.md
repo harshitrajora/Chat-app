@@ -24,7 +24,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd "chat app"
+  cd Chat-app
 ```
 
 Install dependencies
