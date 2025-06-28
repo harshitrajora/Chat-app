@@ -35,7 +35,7 @@ Install dependencies
 
 ```bash
   cd frontend/
-  npm install
+  npm install --legacy-peer-deps
 ```
 
 Start the server
