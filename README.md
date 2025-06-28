@@ -18,13 +18,13 @@ It uses Socket.io for real time communication and stores user details in encrypt
 Clone the project
 
 ```bash
-  git clone https://github.com/v-tanish012/Real-Time-Chat-App.git
+  git clone https://github.com/harshitrajora/Chat-app.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd Real-Time-Chat-App
+  cd "chat app"
 ```
 
 Install dependencies
@@ -71,8 +71,3 @@ Start the Client
 ![](screenshots/groupUpdate.png)
 ### View Other user Profile
 ![](screenshots/otherProfile.png)
-## Acknowledgements
-
-- [Piyush-eon](https://www.youtube.com/playlist?list=PLKhlp2qtUcSZsGkxAdgnPcHioRr-4guZf) for Youtube tutorial on making the chat app
-
-  
