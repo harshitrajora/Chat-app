@@ -50,24 +50,17 @@ Start the Client
   cd frontend
   npm start
 ```
-
   
 # Features
 
 ### Authenticaton
-![](screenshots/login.png)
-![](screenshots/signup.png)
-### Real Time Chatting with Typing indicators
-![](screenshots/typing.png)
-### One to One chat
-![](screenshots/oneToOne.png)
+![](Screenshots/login.png)
+![](Screenshots/signup.png)
+### Chatting
+![](Screenshots/chatting.png)
 ### Search Users
-![](screenshots/searchUser.png)
+![](Screenshots/searchUser.png)
 ### Create Group Chats
-![](screenshots/groupCreate.png)
-### Notifications 
-![](screenshots/notification.png)
+![](Screenshots/creategrp.png)
 ### Add or Remove users from group
-![](screenshots/groupUpdate.png)
-### View Other user Profile
-![](screenshots/otherProfile.png)
+![](Screenshots/grpupdate.png)
